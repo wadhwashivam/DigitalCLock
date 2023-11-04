@@ -19,7 +19,7 @@ A simple and elegant Digital Clock app that displays the time in a 12-hour forma
 
 ## Demo
 
-See the Digital Clock app in action: [Live Demo](https://your-demo-link.com)
+See the Digital Clock app in action: [Live Demo](https://wadhwashivam.github.io/DigitalCLock/)
 
 ## Getting Started
 
