@@ -27,7 +27,7 @@ To run this app locally, follow these steps:
 
 1. Clone this repository:
 
-   git clone https://github.com/wadhwashivam/digital-clock-app.git
+   git clone https://github.com/wadhwashivam/digital-clock.git
 
 2. Open the `index.html` file in your web browser.
 
