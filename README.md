@@ -55,10 +55,6 @@ If you'd like to contribute to this project, you can follow these steps:
 
 5. Create a pull request to the main repository.
 
-## License
-
-This Digital Clock app is licensed under the MIT License. See the LICENSE file for more details.
-
 ---
 
 **Enjoy the Digital Clock App!** 🕒
